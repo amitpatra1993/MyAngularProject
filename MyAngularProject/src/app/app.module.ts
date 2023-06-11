@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { EmployeeViewComponent } from './employee/employee-view/employee-view.component';
+import { EmployeeViewComponent } from './employee/employee-view.component';
 import { EmployeeCreateComponent } from './employee/employee-create.component';
 
 @NgModule({
